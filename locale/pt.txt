@@ -5,13 +5,15 @@
 ### URL
 LinkBehaviour_40349B6E_574B_1F33_41D5_CD1B60D24451.source = http://www.loremipsum.com
 LinkBehaviour_25538A82_3521_BD80_41C4_D3A29498F842.source = http://www.loremipsum.com
-LinkBehaviour_4032AB46_574B_1F73_41B6_45D95218DF2A.source = https://api.whatsapp.com/send?phone=5511947977612
-LinkBehaviour_42A17E85_5755_19F1_41CA_25CFC975D293.source = https://api.whatsapp.com/send?phone=5511947977612
+LinkBehaviour_4032AB46_574B_1F73_41B6_45D95218DF2A.source = https://linklist.bio/titaniumvistorias
+LinkBehaviour_42A17E85_5755_19F1_41CA_25CFC975D293.source = https://linklist.bio/titaniumvistorias
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 LinkBehaviour_402B8B77_574B_1F11_41CA_0F039E6BE9DB.source = https://www.instagram.com/meunegocioweb360/
 LinkBehaviour_08C6ED54_104E_25DE_41A2_2F16B0A99D40.source = https://www.instagram.com/meunegocioweb360/
 LinkBehaviour_40341B70_574B_1F2F_41B5_8C459F70E5B9.source = https://www.instagram.com/titaniumvistorias/
+LinkBehaviour_4B213A3A_5920_127A_41D1_EA119AF9819A.source = https://www.instagram.com/titaniumvistorias/
+LinkBehaviour_4B4ECB56_5920_120A_41C7_8AB7BCEA1D37.source = https://www.instagram.com/titaniumvistorias/
 LinkBehaviour_076A0D65_104B_E5C4_4174_1D4AAA7C5BD4.source = https://www.instagram.com/titaniumvistorias/
 
 ## Media
@@ -20,7 +22,7 @@ LinkBehaviour_076A0D65_104B_E5C4_4174_1D4AAA7C5BD4.source = https://www.instagra
 audiores_45A9CCAA_574D_1933_41D2_3DA8806D6473.mp3Url = media/audio_45B281AE_574D_0B33_41C8_B27FCF4993C7_pt.mp3
 
 ### Title
-panorama_4E544439_57B5_0911_41A4_84C4F08B784C.label = 1
+panorama_534DE7AB_439F_70A3_4194_7A6ECA6C8708.label = 1
 panorama_53E7CFFD_439F_70A7_41BD_5EF2E4C9EAEF.label = 2
 panorama_53E7389F_439F_5F63_41BE_AA6640CB592F.label = 3
 panorama_53E7E1B9_439F_30AF_41CA_4DA5513DCFD6.label = 4
@@ -38,12 +40,14 @@ Button_41DB9CD0_575F_396F_41BE_BA46C21CC304_mobile.label = CONTATOS
 Button_41DB9CD0_575F_396F_41BE_BA46C21CC304.label = CONTATOS
 Button_42C40810_575D_78EF_41AB_C948FECC7AF2.label = ELEVADOR
 Button_42C40810_575D_78EF_41AB_C948FECC7AF2_mobile.label = ELEVADOR
-Button_208FE6A8_3761_B58F_41C0_8472E4FD31F0_mobile.label = FACHADA
 Button_208FE6A8_3761_B58F_41C0_8472E4FD31F0.label = FACHADA
+Button_208FE6A8_3761_B58F_41C0_8472E4FD31F0_mobile.label = FACHADA
 Button_42EBB4C9_575D_0971_41D0_366020A17256_mobile.label = IMAGEM AÉREA
 Button_42EBB4C9_575D_0971_41D0_366020A17256.label = IMAGEM AÉREA
-Button_42DF2629_575D_0931_41BC_ECB2B4CA60ED_mobile.label = SALA DE ESPERA
+Button_483BA64C_5920_121E_41C5_98E60A450463.label = INSTAGRAM
+Button_4951ABFF_5920_11FA_41D4_9B2B3C9367E9_mobile.label = INSTAGRAM
 Button_42DF2629_575D_0931_41BC_ECB2B4CA60ED.label = SALA DE ESPERA
+Button_42DF2629_575D_0931_41BC_ECB2B4CA60ED_mobile.label = SALA DE ESPERA
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4_mobile.label = lorem ipsum
 
